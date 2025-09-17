@@ -3,7 +3,7 @@
 A Node.js/Express backend for managing students and users (admin/student roles) with authentication, built with MongoDB.
 
 ---
-# deployed at https://student-be-0yca.onrender.com/api
+### deployed at https://student-be-0yca.onrender.com/api, api calls can be made to this base url. do not open this directly in browser. 
 
 ## Table of Contents
 

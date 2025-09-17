@@ -1,4 +1,4 @@
-// index.js
+
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
@@ -7,7 +7,6 @@ const connectDB = require('./db');
 const app = express();
 connectDB();
 
-// Enable CORS for all origins
 app.use(cors());
 
 app.use(express.json());
