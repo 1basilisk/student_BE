@@ -28,6 +28,8 @@ A Node.js/Express backend for managing students and users (admin/student roles) 
 - Students can view and update their own profiles
 - Password hashing with bcrypt
 - MongoDB database integration
+- Automatic default password generation for students created by admin (default password: firstname@123): eg: if name is Utkarsh Sharma, password will be Utkarsh@123
+
 
 ---
 
